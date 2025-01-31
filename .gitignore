@@ -1,3 +1,10 @@
-node_modules/
-.env
+# Ignore node_modules for frontend and backend
+Tws-front/node_modules/
+tws-bd/node_modules/
+
+# Ignore environment files
+Tws-front/.env
+tws-bd/.env
+
+# Ignore macOS system files
 .DS_Store
