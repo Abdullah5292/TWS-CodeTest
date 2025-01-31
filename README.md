@@ -39,7 +39,7 @@ The application follows the MVC design pattern, which helps in maintaining clear
 ### **Installation**
 1. **Clone the repository:**
    ```bash
-   git clone git clone
+   git clone https://github.com/Abdullah5292/TWS-CodeTest.git
 
 2. **Install Dependencies**
 - Navigate to the project directory and install the necessary dependencies
